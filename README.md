@@ -1,1 +1,1 @@
-spring cloud demo for explaining component running mechanism
+spring cloud sample for explaining component running mechanism
